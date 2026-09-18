@@ -1,0 +1,48 @@
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\bin\Debug\net10.0\Lab1.exe
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\bin\Debug\net10.0\Lab1.deps.json
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\bin\Debug\net10.0\Lab1.runtimeconfig.json
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\bin\Debug\net10.0\Lab1.dll
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\bin\Debug\net10.0\Lab1.pdb
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\obj\Debug\net10.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\obj\Debug\net10.0\Lab1.AssemblyInfoInputs.cache
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\obj\Debug\net10.0\Lab1.AssemblyInfo.cs
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\obj\Debug\net10.0\Lab1.csproj.CoreCompileInputs.cache
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\obj\Debug\net10.0\Lab1.sourcelink.json
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\obj\Debug\net10.0\Lab1.dll
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\obj\Debug\net10.0\refint\Lab1.dll
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\obj\Debug\net10.0\Lab1.pdb
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\obj\Debug\net10.0\Lab1.genruntimeconfig.cache
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\obj\Debug\net10.0\ref\Lab1.dll
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\Lab1\obj\Debug\net10.0\Lab1.csproj.Up2Date
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\bin\Debug\net10.0\Lab1.exe
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\bin\Debug\net10.0\Lab1.deps.json
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\bin\Debug\net10.0\Lab1.runtimeconfig.json
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\bin\Debug\net10.0\Lab1.dll
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\bin\Debug\net10.0\Lab1.pdb
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.AssemblyInfoInputs.cache
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.AssemblyInfo.cs
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.csproj.CoreCompileInputs.cache
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.sourcelink.json
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.dll
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\obj\Debug\net10.0\refint\Lab1.dll
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.pdb
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.genruntimeconfig.cache
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\obj\Debug\net10.0\ref\Lab1.dll
+D:\KRNU\CMOOP\2 SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.csproj.Up2Date
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\bin\Debug\net10.0\Lab1.exe
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\bin\Debug\net10.0\Lab1.deps.json
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\bin\Debug\net10.0\Lab1.runtimeconfig.json
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\bin\Debug\net10.0\Lab1.dll
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\bin\Debug\net10.0\Lab1.pdb
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.AssemblyInfoInputs.cache
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.AssemblyInfo.cs
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.csproj.CoreCompileInputs.cache
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.sourcelink.json
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.dll
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\obj\Debug\net10.0\refint\Lab1.dll
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.pdb
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.genruntimeconfig.cache
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\obj\Debug\net10.0\ref\Lab1.dll
+D:\KRNU\CMOOP\2SEMESTR\Lab1\Lab1\obj\Debug\net10.0\Lab1.csproj.Up2Date

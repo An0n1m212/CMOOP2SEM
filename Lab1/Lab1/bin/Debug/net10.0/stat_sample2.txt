@@ -1,0 +1,10 @@
+Статистика слів для файлу sample2.txt:
+колекції: 1
+list: 1
+queue: 1
+priorityqueue: 1
+та: 1
+dictionary: 1
+в: 1
+мові: 1
+c: 1

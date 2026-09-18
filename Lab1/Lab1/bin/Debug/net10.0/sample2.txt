@@ -1,0 +1,1 @@
+Колекції List, Queue, PriorityQueue та Dictionary в мові C#.
