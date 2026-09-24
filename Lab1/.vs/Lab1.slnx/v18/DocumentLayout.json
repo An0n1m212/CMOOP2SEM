@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\",
+  "WorkspaceRootPath": "D:\\CMOOP2SEM\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\krnu\\cmoop\\2semestr\\lab1\\lab1\\task3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\krnu\\cmoop\\2semestr\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\krnu\\cmoop\\2semestr\\lab1\\lab1\\task3\\prioritycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task3\\prioritycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\krnu\\cmoop\\2semestr\\lab1\\lab1\\task3\\printrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task3\\printrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\krnu\\cmoop\\2semestr\\lab1\\lab1\\task3\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task3\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\krnu\\cmoop\\2semestr\\lab1\\lab1\\task3\\printlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task3\\printlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\krnu\\cmoop\\2semestr\\lab1\\lab1\\task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\cmoop2sem\\lab1\\lab1\\task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\krnu\\cmoop\\2semestr\\lab1\\lab1\\task1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\cmoop2sem\\lab1\\lab1\\task3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\cmoop2sem\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\cmoop2sem\\lab1\\lab1\\task3\\prioritycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task3\\prioritycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\cmoop2sem\\lab1\\lab1\\task3\\printrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task3\\printrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\cmoop2sem\\lab1\\lab1\\task3\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task3\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\cmoop2sem\\lab1\\lab1\\task3\\printlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task3\\printlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\cmoop2sem\\lab1\\lab1\\task1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\krnu\\cmoop\\2semestr\\lab1\\lab1\\task1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\cmoop2sem\\lab1\\lab1\\task1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\task1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,15 +46,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PrintLog.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task3\\PrintLog.cs",
+              "DocumentMoniker": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task3\\PrintLog.cs",
               "RelativeDocumentMoniker": "Lab1\\Task3\\PrintLog.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task3\\PrintLog.cs",
+              "ToolTip": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task3\\PrintLog.cs",
               "RelativeToolTip": "Lab1\\Task3\\PrintLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,11 +62,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Enum.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task3\\Enum.cs",
+              "DocumentMoniker": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task3\\Enum.cs",
               "RelativeDocumentMoniker": "Lab1\\Task3\\Enum.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task3\\Enum.cs",
+              "ToolTip": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task3\\Enum.cs",
               "RelativeToolTip": "Lab1\\Task3\\Enum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task1\\Student.cs",
+              "DocumentMoniker": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task1\\Student.cs",
               "RelativeDocumentMoniker": "Lab1\\Task1\\Student.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task1\\Student.cs",
+              "ToolTip": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task1\\Student.cs",
               "RelativeToolTip": "Lab1\\Task1\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PriorityComparer.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task3\\PriorityComparer.cs",
+              "DocumentMoniker": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task3\\PriorityComparer.cs",
               "RelativeDocumentMoniker": "Lab1\\Task3\\PriorityComparer.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task3\\PriorityComparer.cs",
+              "ToolTip": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task3\\PriorityComparer.cs",
               "RelativeToolTip": "Lab1\\Task3\\PriorityComparer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PrintRequest.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task3\\PrintRequest.cs",
+              "DocumentMoniker": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task3\\PrintRequest.cs",
               "RelativeDocumentMoniker": "Lab1\\Task3\\PrintRequest.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task3\\PrintRequest.cs",
+              "ToolTip": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task3\\PrintRequest.cs",
               "RelativeToolTip": "Lab1\\Task3\\PrintRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,11 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Task3.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task3\\Task3.cs",
+              "DocumentMoniker": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task3\\Task3.cs",
               "RelativeDocumentMoniker": "Lab1\\Task3\\Task3.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task3\\Task3.cs",
+              "ToolTip": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task3\\Task3.cs",
               "RelativeToolTip": "Lab1\\Task3\\Task3.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAwH8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,9 +125,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Task1.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task1\\Task1.cs",
+              "DocumentMoniker": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task1\\Task1.cs",
               "RelativeDocumentMoniker": "Lab1\\Task1\\Task1.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task1\\Task1.cs",
+              "ToolTip": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task1\\Task1.cs",
               "RelativeToolTip": "Lab1\\Task1\\Task1.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAmwG4AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,28 +135,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Task2.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task2\\Task2.cs",
+              "DocumentMoniker": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task2\\Task2.cs",
               "RelativeDocumentMoniker": "Lab1\\Task2\\Task2.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Task2\\Task2.cs",
-              "RelativeToolTip": "Lab1\\Task2\\Task2.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowCcAAABSAAAAAAAAAA==",
+              "ToolTip": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Task2\\Task2.cs*",
+              "RelativeToolTip": "Lab1\\Task2\\Task2.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T09:16:27.898Z"
+              "WhenOpened": "2026-09-18T09:16:27.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Program.cs",
+              "DocumentMoniker": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Program.cs",
               "RelativeDocumentMoniker": "Lab1\\Program.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab1\\Lab1\\Program.cs",
+              "ToolTip": "D:\\CMOOP2SEM\\Lab1\\Lab1\\Program.cs",
               "RelativeToolTip": "Lab1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T09:16:09.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T09:16:09.974Z"
             }
           ]
         }
