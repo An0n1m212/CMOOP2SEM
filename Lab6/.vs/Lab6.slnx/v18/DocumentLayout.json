@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|d:\\krnu\\2kyrs\\cmoop\\lab6\\bestoil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|solutionrelative:bestoil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|d:\\krnu\\2kyrs\\cmoop\\lab6\\bestoil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|solutionrelative:bestoil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|d:\\krnu\\2kyrs\\cmoop\\lab6\\city.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|solutionrelative:city.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|d:\\krnu\\2kyrs\\cmoop\\lab6\\calculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|solutionrelative:calculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|d:\\krnu\\2kyrs\\cmoop\\lab6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|d:\\krnu\\2kyrs\\cmoop\\lab6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|d:\\krnu\\2kyrs\\cmoop\\lab6\\calculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|solutionrelative:calculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|d:\\krnu\\2kyrs\\cmoop\\lab6\\city.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29A01690-F7EA-48AA-B4E9-2C58D9C56041}|Lab6.csproj|solutionrelative:city.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "City.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\City.xaml.cs",
+              "RelativeDocumentMoniker": "City.xaml.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\City.xaml.cs",
+              "RelativeToolTip": "City.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:10:05.027Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BestOil.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\BestOil.xaml.cs",
+              "RelativeDocumentMoniker": "BestOil.xaml.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\BestOil.xaml.cs",
+              "RelativeToolTip": "BestOil.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:09:30.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\Calculator.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator.xaml.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\Calculator.xaml.cs",
+              "RelativeToolTip": "Calculator.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwD0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:07:55.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.xaml",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\Calculator.xaml",
+              "RelativeDocumentMoniker": "Calculator.xaml",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\Calculator.xaml",
+              "RelativeToolTip": "Calculator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-16T09:05:40.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "City.xaml",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\City.xaml",
+              "RelativeDocumentMoniker": "City.xaml",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\City.xaml",
+              "RelativeToolTip": "City.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-16T09:05:58.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BestOil.xaml",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\BestOil.xaml",
+              "RelativeDocumentMoniker": "BestOil.xaml",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\BestOil.xaml",
+              "RelativeToolTip": "BestOil.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-16T09:05:26.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-16T09:01:56.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:01:56.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

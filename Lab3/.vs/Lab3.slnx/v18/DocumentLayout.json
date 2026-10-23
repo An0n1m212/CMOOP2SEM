@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|d:\\krnu\\2kyrs\\cmoop\\lab3\\task1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:task1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|d:\\krnu\\2kyrs\\cmoop\\lab3\\common\\fileui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:common\\fileui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|d:\\krnu\\2kyrs\\cmoop\\lab3\\task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|d:\\krnu\\2kyrs\\cmoop\\lab3\\task3\\songcollectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:task3\\songcollectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|d:\\krnu\\2kyrs\\cmoop\\lab3\\task3\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:task3\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|d:\\krnu\\2kyrs\\cmoop\\lab3\\task3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:task3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|d:\\krnu\\2kyrs\\cmoop\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileUi.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Common\\FileUi.cs",
+              "RelativeDocumentMoniker": "Common\\FileUi.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Common\\FileUi.cs",
+              "RelativeToolTip": "Common\\FileUi.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwBYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T09:46:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Task2\\Task2.cs",
+              "RelativeDocumentMoniker": "Task2\\Task2.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Task2\\Task2.cs",
+              "RelativeToolTip": "Task2\\Task2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:32:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Task3\\Task3.cs",
+              "RelativeDocumentMoniker": "Task3\\Task3.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Task3\\Task3.cs",
+              "RelativeToolTip": "Task3\\Task3.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAYwN8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:09:30.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SongCollectionManager.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Task3\\SongCollectionManager.cs",
+              "RelativeDocumentMoniker": "Task3\\SongCollectionManager.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Task3\\SongCollectionManager.cs",
+              "RelativeToolTip": "Task3\\SongCollectionManager.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswGwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:59:13.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Task3\\Song.cs",
+              "RelativeDocumentMoniker": "Task3\\Song.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Task3\\Song.cs",
+              "RelativeToolTip": "Task3\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:52:29.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Task1\\Task1.cs",
+              "RelativeDocumentMoniker": "Task1\\Task1.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Task1\\Task1.cs",
+              "RelativeToolTip": "Task1\\Task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:51:07.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:50:48.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
