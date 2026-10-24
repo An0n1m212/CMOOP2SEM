@@ -20,6 +20,7 @@ namespace Lab5.Tasks
         {
             InitializeComponent();
         }
+
         private void Toggle(UIElement element)
         {
             element.Visibility = element.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;

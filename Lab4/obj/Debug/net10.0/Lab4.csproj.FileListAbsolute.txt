@@ -1,0 +1,16 @@
+D:\KRNU\2KYRS\CMOOP\Lab4\bin\Debug\net10.0\Lab4.exe
+D:\KRNU\2KYRS\CMOOP\Lab4\bin\Debug\net10.0\Lab4.deps.json
+D:\KRNU\2KYRS\CMOOP\Lab4\bin\Debug\net10.0\Lab4.runtimeconfig.json
+D:\KRNU\2KYRS\CMOOP\Lab4\bin\Debug\net10.0\Lab4.dll
+D:\KRNU\2KYRS\CMOOP\Lab4\bin\Debug\net10.0\Lab4.pdb
+D:\KRNU\2KYRS\CMOOP\Lab4\obj\Debug\net10.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\2KYRS\CMOOP\Lab4\obj\Debug\net10.0\Lab4.AssemblyInfoInputs.cache
+D:\KRNU\2KYRS\CMOOP\Lab4\obj\Debug\net10.0\Lab4.AssemblyInfo.cs
+D:\KRNU\2KYRS\CMOOP\Lab4\obj\Debug\net10.0\Lab4.csproj.CoreCompileInputs.cache
+D:\KRNU\2KYRS\CMOOP\Lab4\obj\Debug\net10.0\Lab4.sourcelink.json
+D:\KRNU\2KYRS\CMOOP\Lab4\obj\Debug\net10.0\Lab4.dll
+D:\KRNU\2KYRS\CMOOP\Lab4\obj\Debug\net10.0\refint\Lab4.dll
+D:\KRNU\2KYRS\CMOOP\Lab4\obj\Debug\net10.0\Lab4.pdb
+D:\KRNU\2KYRS\CMOOP\Lab4\obj\Debug\net10.0\Lab4.genruntimeconfig.cache
+D:\KRNU\2KYRS\CMOOP\Lab4\obj\Debug\net10.0\ref\Lab4.dll
+D:\KRNU\2KYRS\CMOOP\Lab4\obj\Debug\net10.0\Lab4.csproj.Up2Date

@@ -3,27 +3,7 @@
   "WorkspaceRootPath": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -31,43 +11,63 @@
       "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\tasks\\task7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|d:\\krnu\\2kyrs\\cmoop\\lab5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\tasks\\task1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:tasks\\task1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AC04B937-F5A1-4F51-B5BC-3EB316A6BDFD}|Lab5.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -78,23 +78,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Task3.xaml",
-              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task3.xaml",
-              "RelativeDocumentMoniker": "Tasks\\Task3.xaml",
-              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task3.xaml",
-              "RelativeToolTip": "Tasks\\Task3.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-16T08:06:38.135Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Task6.xaml.cs",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task6.xaml.cs",
               "RelativeDocumentMoniker": "Tasks\\Task6.xaml.cs",
@@ -102,37 +98,35 @@
               "RelativeToolTip": "Tasks\\Task6.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T08:09:23.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:09:23.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Task1.xaml",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task1.xaml",
               "RelativeDocumentMoniker": "Tasks\\Task1.xaml",
               "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task1.xaml",
               "RelativeToolTip": "Tasks\\Task1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-16T08:04:55.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:04:55.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Task4.xaml.cs",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task4.xaml.cs",
               "RelativeDocumentMoniker": "Tasks\\Task4.xaml.cs",
               "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task4.xaml.cs",
               "RelativeToolTip": "Tasks\\Task4.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T08:08:44.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Task5.xaml.cs",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task5.xaml.cs",
               "RelativeDocumentMoniker": "Tasks\\Task5.xaml.cs",
@@ -140,12 +134,11 @@
               "RelativeToolTip": "Tasks\\Task5.xaml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T08:09:05.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:09:05.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Task2.xaml.cs",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task2.xaml.cs",
               "RelativeDocumentMoniker": "Tasks\\Task2.xaml.cs",
@@ -153,48 +146,44 @@
               "RelativeToolTip": "Tasks\\Task2.xaml.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T08:12:16.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:12:16.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Task2.xaml",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task2.xaml",
               "RelativeDocumentMoniker": "Tasks\\Task2.xaml",
               "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task2.xaml",
               "RelativeToolTip": "Tasks\\Task2.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-16T08:11:59.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:11:59.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Task7.xaml",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task7.xaml",
               "RelativeDocumentMoniker": "Tasks\\Task7.xaml",
               "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task7.xaml",
               "RelativeToolTip": "Tasks\\Task7.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-16T08:09:58.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:09:58.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Task6.xaml",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task6.xaml",
               "RelativeDocumentMoniker": "Tasks\\Task6.xaml",
               "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task6.xaml",
               "RelativeToolTip": "Tasks\\Task6.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-16T08:07:09.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:07:09.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Task4.xaml",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task4.xaml",
               "RelativeDocumentMoniker": "Tasks\\Task4.xaml",
@@ -206,19 +195,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Task5.xaml",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task5.xaml",
               "RelativeDocumentMoniker": "Tasks\\Task5.xaml",
               "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task5.xaml",
               "RelativeToolTip": "Tasks\\Task5.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-16T08:07:00.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:07:00.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Task1.xaml.cs",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task1.xaml.cs",
               "RelativeDocumentMoniker": "Tasks\\Task1.xaml.cs",
@@ -226,37 +214,57 @@
               "RelativeToolTip": "Tasks\\Task1.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAmwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T08:07:34.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:07:34.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
+              "Title": "Task7.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task7.xaml.cs",
+              "RelativeDocumentMoniker": "Tasks\\Task7.xaml.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task7.xaml.cs",
+              "RelativeToolTip": "Tasks\\Task7.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:10:09.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task3.xaml",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task3.xaml",
+              "RelativeDocumentMoniker": "Tasks\\Task3.xaml",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task3.xaml",
+              "RelativeToolTip": "Tasks\\Task3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-16T08:06:38.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-16T08:01:40.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:01:40.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "Task3.xaml.cs",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task3.xaml.cs",
               "RelativeDocumentMoniker": "Tasks\\Task3.xaml.cs",
               "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task3.xaml.cs",
               "RelativeToolTip": "Tasks\\Task3.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T08:08:26.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:08:26.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -264,21 +272,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T08:01:40.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Task7.xaml.cs",
-              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task7.xaml.cs",
-              "RelativeDocumentMoniker": "Tasks\\Task7.xaml.cs",
-              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab5\\Tasks\\Task7.xaml.cs",
-              "RelativeToolTip": "Tasks\\Task7.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwFoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T08:10:09.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T08:01:40.019Z"
             },
             {
               "$type": "Document",

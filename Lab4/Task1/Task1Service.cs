@@ -41,7 +41,8 @@ namespace Lab4.Task1
                     Console.WriteLine("1. Переглянути початковий масив об'єктів");
                     Console.WriteLine("2. XML серіалізація та десеріалізація (XmlSerializer)");
                     Console.WriteLine("3. JSON серіалізація та десеріалізація (JsonSerializer)");
-                    Console.WriteLine("4. Виконати запит: Пошук людей з однаковим оператором");
+                    Console.WriteLine("4. Результат запиту: Групування за мобільними операторами)");
+                    Console.WriteLine("5. Виконати запит: Точковий парсинг великого JSON через JsonElement");
                     Console.WriteLine("0. <- Повернутися у Головне меню");
                     Console.WriteLine("--------------------------------------------------");
                     Console.Write("Виберіть підзавдання: ");
@@ -63,6 +64,10 @@ namespace Lab4.Task1
                             break;
                         case "4":
                             ExecuteOperatorQuery();
+                            Pause();
+                            break;
+                        case "5":
+                            ExecuteLargeJsonParsing();
                             Pause();
                             break;
                         case "0":
@@ -144,8 +149,73 @@ namespace Lab4.Task1
                     Console.WriteLine("Не знайдено кілька осіб із однаковим оператором.");
                 }
             }
+            private void ExecuteLargeJsonParsing()
+            {
+                Console.WriteLine("\n--- 6. Точковий парсинг великого JSON через JsonDocument ---");
 
-            private void Pause()
+                
+                string simulatedApiResponse = @"
+            {
+                ""status"": ""success"",
+                ""timestamp"": ""2026-10-24T14:30:00Z"",
+                ""server_info"": {
+                    ""region"": ""eu-central-1"",
+                    ""load_average"": 0.12,
+                    ""active_connections"": 4520
+                },
+                ""payload"": {
+                    ""total_count"": 5,
+                    ""page"": 1,
+                    ""records_data"": [
+                        {
+                            ""FullName"": ""Иваненко Иван Иванович"",
+                            ""HomePhone"": ""044-111-2233"",
+                            ""WorkPhone"": ""044-555-6677"",
+                            ""MobilePhone"": ""+380671234567"",
+                            ""BirthDate"": ""1995-05-15T00:00:00""
+                        },
+                        {
+                            ""FullName"": ""Петренко Петр Петрович"",
+                            ""HomePhone"": ""044-222-3344"",
+                            ""WorkPhone"": ""044-666-7788"",
+                            ""MobilePhone"": ""+380509876543"",
+                            ""BirthDate"": ""1998-08-22T00:00:00""
+                        }
+                    ]
+                }
+            }";
+
+                Console.WriteLine("Считуєм входящий JSON и шукаем тільки массив 'records_data'...\n");
+
+                // Парсим поток/строку через JsonDocument без полной десериализации ответа
+                using (JsonDocument doc = JsonDocument.Parse(simulatedApiResponse))
+                {
+                    JsonElement root = doc.RootElement;
+
+                    // Быстрый доступ к нужному узлу по пути: payload -> records_data
+                    if (root.TryGetProperty("payload", out JsonElement payloadElement) &&
+                        payloadElement.TryGetProperty("records_data", out JsonElement recordsElement))
+                    {
+                        // Десериализуем ТОЛЬКО найденный массив напрямую в наш класс Record[]
+                        Record[]? extractedRecords = recordsElement.Deserialize<Record[]>();
+
+                        if (extractedRecords != null)
+                        {
+                            Console.WriteLine($"[УСПЕХ] Извлечено записей из глубокого JSON: {extractedRecords.Length}\n");
+                            foreach (var record in extractedRecords)
+                            {
+                                Console.WriteLine(record);
+                                Console.WriteLine(new string('-', 30));
+                            }
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("[Помилка] Не вдалось знайти вузол 'records_data' в отриманном JSON.");
+                    }
+                }
+            }
+    private void Pause()
             {
                 Console.WriteLine("\nНатисніть будь-яку клавішу для продовження...");
                 Console.ReadKey();

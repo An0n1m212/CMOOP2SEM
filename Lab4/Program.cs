@@ -1,10 +1,12 @@
-﻿using Lab4.Task1.Lab4App;
+﻿using Lab4;
+using Lab4.Task1.Lab4App;
 using Lab4.Task2;
 
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 var task1Service = new Task1Service();
 var task2Service = new Task2Service();
+var analizeBigJson = new AnalizeBigJson();
 
 while (true)
 {
@@ -14,6 +16,7 @@ while (true)
     Console.WriteLine("==================================================");
     Console.WriteLine("1. Завдання 1 (Варіант 22: Клас «ЗАПИС»)");
     Console.WriteLine("2. Завдання 2 (Додаткове: Програма «Словники»)");
+    Console.WriteLine("3. Завдання 3 Аналіз апі");
     Console.WriteLine("0. Вихід з програми");
     Console.WriteLine("--------------------------------------------------");
     Console.Write("Виберіть завдання: ");
@@ -26,6 +29,9 @@ while (true)
             break;
         case "2":
             task2Service.RunMenu();
+            break;
+        case "3":
+            Task task = analizeBigJson.RunMenu();
             break;
         case "0":
             Console.WriteLine("\nЗавершення роботи програми. До побачення!");

@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\",
+  "WorkspaceRootPath": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|d:\\krnu\\cmoop\\2semestr\\lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|solutionrelative:lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|d:\\krnu\\2kyrs\\cmoop\\lab4\\task1\\task1service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|solutionrelative:task1\\task1service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|d:\\krnu\\cmoop\\2semestr\\lab4\\task2\\task2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|solutionrelative:task2\\task2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|d:\\krnu\\2kyrs\\cmoop\\lab4\\task1\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|solutionrelative:task1\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|d:\\krnu\\cmoop\\2semestr\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|d:\\krnu\\2kyrs\\cmoop\\lab4\\task2\\task2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|solutionrelative:task2\\task2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|d:\\krnu\\cmoop\\2semestr\\lab4\\task1\\wordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|solutionrelative:task1\\wordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|d:\\krnu\\2kyrs\\cmoop\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|d:\\krnu\\cmoop\\2semestr\\lab4\\task1\\dictionarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|solutionrelative:task1\\dictionarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|d:\\krnu\\2kyrs\\cmoop\\lab4\\task1\\wordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|solutionrelative:task1\\wordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|d:\\krnu\\cmoop\\2semestr\\lab4\\task1\\task1service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|solutionrelative:task1\\task1service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|d:\\krnu\\cmoop\\2semestr\\lab4\\task1\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B131830-3C86-4B0D-A7F2-CFD299CD996F}|Lab4.csproj|solutionrelative:task1\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|d:\\krnu\\2kyrs\\cmoop\\lab4\\task1\\dictionarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|solutionrelative:task1\\dictionarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,41 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lab4",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Lab4.csproj",
-              "RelativeDocumentMoniker": "Lab4.csproj",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Lab4.csproj",
-              "RelativeToolTip": "Lab4.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-15T08:57:56.058Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Task2Service.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Task2\\Task2Service.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Task2\\Task2Service.cs",
               "RelativeDocumentMoniker": "Task2\\Task2Service.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Task2\\Task2Service.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Task2\\Task2Service.cs",
               "RelativeToolTip": "Task2\\Task2Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoBAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T08:54:24.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DictionaryModel.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Task1\\DictionaryModel.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Task1\\DictionaryModel.cs",
               "RelativeDocumentMoniker": "Task1\\DictionaryModel.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Task1\\DictionaryModel.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Task1\\DictionaryModel.cs",
               "RelativeToolTip": "Task1\\DictionaryModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WordEntry.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Task1\\WordEntry.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Task1\\WordEntry.cs",
               "RelativeDocumentMoniker": "Task1\\WordEntry.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Task1\\WordEntry.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Task1\\WordEntry.cs",
               "RelativeToolTip": "Task1\\WordEntry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,24 +85,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Task1Service.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Task1\\Task1Service.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Task1\\Task1Service.cs",
               "RelativeDocumentMoniker": "Task1\\Task1Service.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Task1\\Task1Service.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Task1\\Task1Service.cs",
               "RelativeToolTip": "Task1\\Task1Service.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAcwLQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwDIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T08:53:34.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Record.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Task1\\Record.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Task1\\Record.cs",
               "RelativeDocumentMoniker": "Task1\\Record.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Task1\\Record.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Task1\\Record.cs",
               "RelativeToolTip": "Task1\\Record.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,13 +111,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Program.cs",
+              "DocumentMoniker": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\KRNU\\CMOOP\\2SEMESTR\\Lab4\\Program.cs",
+              "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T08:49:02.295Z",
               "EditorCaption": ""

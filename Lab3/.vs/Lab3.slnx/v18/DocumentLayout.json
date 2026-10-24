@@ -38,8 +38,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -50,8 +58,7 @@
               "RelativeToolTip": "Common\\FileUi.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAiwBYAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T09:46:36.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T09:46:36.792Z"
             },
             {
               "$type": "Document",
@@ -63,8 +70,7 @@
               "RelativeToolTip": "Task2\\Task2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T08:32:00.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T08:32:00.418Z"
             },
             {
               "$type": "Document",
@@ -88,8 +94,7 @@
               "RelativeToolTip": "Task3\\SongCollectionManager.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAswGwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T15:59:13.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T15:59:13.097Z"
             },
             {
               "$type": "Document",
@@ -101,8 +106,7 @@
               "RelativeToolTip": "Task3\\Song.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T10:52:29.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T10:52:29.148Z"
             },
             {
               "$type": "Document",
@@ -112,7 +116,7 @@
               "RelativeDocumentMoniker": "Task1\\Task1.cs",
               "ToolTip": "D:\\KRNU\\2KYRS\\CMOOP\\Lab3\\Task1\\Task1.cs",
               "RelativeToolTip": "Task1\\Task1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T10:51:07.038Z",
               "EditorCaption": ""
